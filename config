@@ -4,7 +4,7 @@
   [[default]]
     background_color = "#0d1117"
     cursor_shape = ibeam
-    font = JetBrainsMono Nerd Font Mono 11
+    font = JetBrainsMono Nerd Font Mono 10
     use_system_font = False
 [layouts]
   [[default]]
