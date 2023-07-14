@@ -1,5 +1,6 @@
 [global_config]
 [keybindings]
+  close_window = <Alt>q
 [profiles]
   [[default]]
     background_color = "#0d1117"
@@ -14,4 +15,5 @@
     [[[child1]]]
       type = Terminal
       parent = window0
+      profile = default
 [plugins]

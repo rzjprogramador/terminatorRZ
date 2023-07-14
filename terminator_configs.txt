@@ -1,4 +1,13 @@
+# PERSONALIZAÇÃO
 
+no preferences se fazer algo vai refletir no config.
+atalhos personalizados:
+[keybindings]
+  close_window = <Alt>q  // -- Fecha Terminal com o atalho definido. --
+
+---
+
+# LINKS
 -- editar meus do terminal Terminator : local ~/.config/terminator/config.
 
 -- atalhos default do Terminator : https://shortcutbuzz.com/terminator-keyboard-shortcuts-a-complete-list/
