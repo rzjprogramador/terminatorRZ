@@ -1,9 +1,13 @@
 # PERSONALIZAÇÃO
 
-no preferences se fazer algo vai refletir no config.
-atalhos personalizados:
-[keybindings]
-  close_window = <Alt>q  // -- Fecha Terminal com o atalho definido. --
+para editar as configs pode fazer na interface de uso que repfletira no arquivo de config. adicionando o comando modificado e podemos versionar no github.
+
+  - atalho fechar terminal: `em [keybindings] ::adicionar ::  close_window = <Alt>q`
+
+ -  abrir com janela maximizada: `em : [global_config] adicionar: window_state = maximise`,
+
+mudar terminal padrao no bodhi linux:
+configuracoes / aplicações padrao / terminal / <escolher o terminal que quer como padrao.>
 
 ---
 

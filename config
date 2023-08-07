@@ -1,4 +1,5 @@
 [global_config]
+  window_state = maximise
 [keybindings]
   close_window = <Alt>q
 [profiles]
